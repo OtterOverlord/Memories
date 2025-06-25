@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url(VT323-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Retro';
+    src: url(PressStart2P-Regular.ttf);
+}
+
+html {
+    background-color: black;
+    font-size: 14px;
+    text-align: center;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1 {
+    font-family: Minecraft;
+    color: white;
+    font-size: 6rem;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+p {
+    font-family: Retro;
+    color: white;
+    font-size: 1rem;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    align-content: center;
+}
